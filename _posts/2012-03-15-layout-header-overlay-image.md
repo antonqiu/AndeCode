@@ -1,5 +1,6 @@
 ---
 title: "Layout: Header Image Overlay"
+cover-img: ["/images/unsplash-image-1.jpg": "Photo credit: [**Unsplash**](https://unsplash.com)"]
 header:
   overlay_image: unsplash-image-1.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"

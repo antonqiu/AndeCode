@@ -3,6 +3,7 @@ title: "Splash Page"
 layout: page
 permalink: /splash-page/
 date: 2016-03-23T11:48:41-04:00
+cover-img: /images/unsplash-image-1.jpg
 header:
   overlay_color: "#000"
   overlay_image: unsplash-image-1.jpg

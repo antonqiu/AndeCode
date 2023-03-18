@@ -1,5 +1,6 @@
 ---
 title: "Layout: Header Image (Vertical)"
+cover-img: /images/unsplash-image-6.jpg
 header:
   image: unsplash-image-6.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"

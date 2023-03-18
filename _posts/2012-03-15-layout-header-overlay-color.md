@@ -1,5 +1,6 @@
 ---
 title: "Layout: Header Overlay with Background Fill"
+cover-img: "#333"
 header:
   overlay_color: "#333"
 categories:

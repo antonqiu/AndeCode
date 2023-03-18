@@ -1,5 +1,6 @@
 ---
 title: "Layout: Header Image (External URL)"
+cover-img: https://mammothtech.io/wp-content/uploads/2018/02/header-bg.png
 header:
   image: https://farm5.staticflickr.com/4140/4939863887_84705982fd_b.jpg
 categories:

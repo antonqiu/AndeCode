@@ -1,5 +1,6 @@
 ---
 title: "Layout: Header Image and Text Readability"
+cover-img: /images/unsplash-image-4.jpg
 header:
   image: unsplash-image-4.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
