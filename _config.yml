@@ -29,7 +29,7 @@ remote_theme: daattali/beautiful-jekyll
 ###############################################
 
 navbar-links:
-  About Me: "about"
+  About Me: "about.html"
 
 ################
 # --- Logo --- #
@@ -252,10 +252,11 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-# timezone: "America/Los_Angeles"
+timezone: "America/Los_Angeles"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+# permalink: /:year-:month-:day-:title/
+permalink: /:categories/:year-:month-:day-:title:output_ext
 paginate: 5
 
 kramdown:
